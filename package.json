@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Curso de Rest API do YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoSantosRS/REST.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Léo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoSantosRS/REST/issues"
+  },
+  "homepage": "https://github.com/LeoSantosRS/REST#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
